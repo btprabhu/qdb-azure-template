@@ -42,5 +42,5 @@ However, since data is replicated between the nodes (3 times by default), the da
 
 ## Debugging Tools
 
-* [Deploy in development mode](https://portal.azure.com/#create/Microsoft.Template/uri/https:%2F%2Fraw.githubusercontent.com%2Fbureau14%2Fqdb-azure-template%2Fmaster%2FmainTemplate.json) (caution: license fees apply)
-* [Open the GUI in development mode](https://portal.azure.com/?clientOptimizations=false#blade/Microsoft_Azure_Compute/CreateMultiVmWizardBlade/internal_bladeCallId/anything/internal_bladeCallerParams/{"initialData":{},"providerConfig":{"createUiDefinition":"https:%2F%2Fraw.githubusercontent.com%2Fbureau14%2Fqdb-azure-template%2Fmaster%2FcreateUiDefinition.json"}}) (this wont deploy anything)
+* [Deploy in development mode](https://portal.azure.com/#create/Microsoft.Template/uri/https:%2F%2Fraw.githubusercontent.com%2Fbureau14%2Fqdb-azure-template%2Fno-wait%2FmainTemplate.json) (caution: license fees apply)
+* [Open the GUI in development mode](https://portal.azure.com/?clientOptimizations=false#blade/Microsoft_Azure_Compute/CreateMultiVmWizardBlade/internal_bladeCallId/anything/internal_bladeCallerParams/{"initialData":{},"providerConfig":{"createUiDefinition":"https:%2F%2Fraw.githubusercontent.com%2Fbureau14%2Fqdb-azure-template%2Fno-wait%2FcreateUiDefinition.json"}}) (this wont deploy anything)
